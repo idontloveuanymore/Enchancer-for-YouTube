@@ -1,0 +1,36 @@
+.yt-spec-icon-badge-shape--type-notification .yt-spec-icon-badge-shape__badge {
+    background-color: #a9a9a9a1 !important;
+    color: #fff;
+}
+
+.ytp-swatch-background-color {
+    background-color: #fff !important;
+}
+
+.ytp-live-badge[disabled]:before {
+    background: #fff important;
+}
+
+.yt-core-attributed-string__link--call-to-action-color {
+    color: #ffffff91 !important;
+}
+
+.yt-button-shape {
+    display: none;
+}
+
+.style-scope ytd-video-description-transcript-section-renderer {
+    display: none;
+}
+
+html[dark],[dark] {
+
+    --yt-spec-call-to-action: #fff !important;
+    --yt-spec-static-brand-red: #fff !important;
+    --yt-spec-themed-blue: #fff !important;
+    --yt-spec-static-overlay-background-brand: #9e9e9e !important;
+}
+
+.ytp-settings-button.ytp-hd-quality-badge:after {
+    display: none;
+}
